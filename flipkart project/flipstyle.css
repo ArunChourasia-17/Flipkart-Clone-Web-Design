@@ -93,6 +93,7 @@ nav ul li a:hover{
 .card-item:hover{
     transform: translateY(10px);
 }
+
 .card h2{
     font-family: 'Lato', sans-serif;
 }
