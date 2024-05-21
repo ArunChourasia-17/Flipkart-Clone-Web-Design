@@ -90,6 +90,9 @@ nav ul li a:hover{
     margin: 0 15px;
 }
 
+.card-item:hover{
+    transform: translateY(10px);
+}
 .card h2{
     font-family: 'Lato', sans-serif;
 }
